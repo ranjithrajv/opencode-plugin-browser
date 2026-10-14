@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Behaviour-level coverage: a tmpdir-backed `scanWorkspace` to `loadEntries` round trip, including a JSONC config and a peer-dependencies-only plugin.
+
 ## [1.0.0-alpha.6] - 2026-09-27
 
 ### Changed
