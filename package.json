@@ -12,7 +12,7 @@
   "author": "Ranjith Raj",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ranjithrajv/opencode-plugin-manager.git"
+    "url": "git+https://github.com/ranjithrajv/opencode-plugin-browser.git"
   },
   "files": [
     "index.ts",

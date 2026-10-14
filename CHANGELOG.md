@@ -63,8 +63,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Plugin install/uninstall/toggle via UI
 - Grouped display (npm / local / built-in / uninstalled) with collapsible sections
 
-[Unreleased]: https://github.com/ranjithraj/opencode-plugin-manager/compare/v1.0.0-alpha.6...HEAD
-[0.1.0]: https://github.com/ranjithraj/opencode-plugin-manager/releases/tag/v0.1.0
-[1.0.0-alpha.4]: https://github.com/ranjithraj/opencode-plugin-manager/releases/tag/v1.0.0-alpha.4
-[1.0.0-alpha.5]: https://github.com/ranjithraj/opencode-plugin-manager/releases/tag/v1.0.0-alpha.5
-[1.0.0-alpha.6]: https://github.com/ranjithraj/opencode-plugin-manager/releases/tag/v1.0.0-alpha.6
+[Unreleased]: https://github.com/ranjithrajv/opencode-plugin-browser/compare/v1.0.0-alpha.6...HEAD
+[0.1.0]: https://github.com/ranjithrajv/opencode-plugin-browser/releases/tag/v0.1.0
+[1.0.0-alpha.4]: https://github.com/ranjithrajv/opencode-plugin-browser/releases/tag/v1.0.0-alpha.4
+[1.0.0-alpha.5]: https://github.com/ranjithrajv/opencode-plugin-browser/releases/tag/v1.0.0-alpha.5
+[1.0.0-alpha.6]: https://github.com/ranjithrajv/opencode-plugin-browser/releases/tag/v1.0.0-alpha.6
